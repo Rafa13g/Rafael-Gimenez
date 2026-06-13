@@ -33,8 +33,11 @@
 ### Gradatim
 🔗 [Ver sitio](https://link-del-proyecto.com)
 
-### Nombre del Proyecto 2
-🔗 [Ver sitio](https://link-del-proyecto2.com)
+### Loyly
+🔗 [Ver sitio](https://cheerful-alpaca-052b16.netlify.app/)
+
+### Loyly
+🔗 [Ver sitio](https://cheerful-alpaca-052b16.netlify.app/)
 
 ---
 
