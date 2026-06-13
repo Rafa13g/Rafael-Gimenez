@@ -36,8 +36,17 @@
 ### Loyly
 🔗 [Ver sitio](https://cheerful-alpaca-052b16.netlify.app/)
 
-### Loyly
-🔗 [Ver sitio](https://cheerful-alpaca-052b16.netlify.app/)
+### Barberia
+🔗 [Ver sitio](https://darling-tapioca-4db5a4.netlify.app/)
+
+### King's Barber
+🔗 [Ver sitio](https://timely-liger-0356ef.netlify.app/)
+
+### Drip Store
+🔗 [Ver sitio](https://statuesque-gingersnap-374647.netlify.app/)
+
+### Venefo Redesing
+🔗 [Ver sitio](https://iridescent-dolphin-40ff01.netlify.app/)
 
 ---
 
