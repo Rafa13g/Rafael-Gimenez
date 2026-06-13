@@ -4,7 +4,8 @@
 
 💻 **Web Developer** | 🌐 Diseño y desarrollo de páginas web modernas
 
-<img src="TU_IMAGEN_AQUI.jpg" width="180" style="border-radius: 50%;" />
+<img width="1672" height="941" alt="ChatGPT Image 13 jun 2026, 12_03_14 a m" src="https://github.com/user-attachments/assets/024b17d8-eba4-4535-8143-56f0adaa302f" />
+
 
 <br><br>
 
@@ -29,7 +30,7 @@
 
 ## 🚀 Proyectos
 
-### Nombre del Proyecto
+### Gradatim
 🔗 [Ver sitio](https://link-del-proyecto.com)
 
 ### Nombre del Proyecto 2
